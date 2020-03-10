@@ -1,4 +1,7 @@
-# point-generate
+## point-generate
+
+[原论文地址](https://arxiv.org/pdf/1704.04368.pdf)
+
 指针生成网络的三个实验
 
 ### en 

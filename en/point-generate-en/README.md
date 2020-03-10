@@ -4,9 +4,9 @@
 
 
 |-data_util-|-data.py 读取样本文件，生成二进制文件存储</br>
-|           |-vocab.py 读取词表文件，生成词表</br> 
+|-data_util-|-vocab.py 读取词表文件，生成词表</br> 
 |</br>
-|-model-    |model.py  模型相关代码文件</br>
+|-model-|model.py  模型相关代码文件</br>
 |</br>
 |-decoder.py  模型进行编码时相关代码文件</br>
 |</br>
@@ -16,6 +16,5 @@
 |</br>
 |-train_util.py  模型进行 训练 和 evaluate的文件</br>
 
-modify
 
 如果有什么问题，请加我QQ:997251095或者QQ邮箱交流  

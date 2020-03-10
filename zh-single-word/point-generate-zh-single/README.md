@@ -19,6 +19,7 @@
 |-train_util.py  模型进行 train 和 evaluate的文件</br>
 
 
-
+### 模型更改
+![模型更改](https://github.com/997261095/point-generate/blob/master/zh-single-word/point-generate-zh-single/%E6%A8%A1%E5%9E%8B%E6%9B%B4%E6%94%B9.png) 
 
 如果有什么问题，请加我QQ:997251095或者QQ邮箱交流
